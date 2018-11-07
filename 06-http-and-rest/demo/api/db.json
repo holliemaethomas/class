@@ -1,0 +1,26 @@
+{
+  "teams": [
+    {
+      "name": "Astros",
+      "city": "Houston",
+      "_id": 2
+    },
+    {
+      "name": "Mariners",
+      "city": "Sodo",
+      "_id": 3
+    },
+    {
+      "name": "Phillies",
+      "city": "Philly",
+      "_id": 4
+    }
+  ],
+  "players": [
+    {
+      "_id": 1,
+      "name": "Zach",
+      "position": "Catcher"
+    }
+  ]
+}

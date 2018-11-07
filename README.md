@@ -48,7 +48,7 @@
 
 ## Working with our class repository
 - FORK It!
-- Set up a new remote `git remote add upstream https://github.com:codefellows/seattle-javascript-401n7.git'
+- Set up a new remote `git remote add upstream https://github.com/codefellows-seattle-javascript-401n7/class.git'
 - Fetch our branches ... `git fetch upstream`
 - Prove it ... `git remote -v`
 - Every day, get the latest ...

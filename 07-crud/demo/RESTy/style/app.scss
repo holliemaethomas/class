@@ -1,0 +1,33 @@
+$spaciousness: .25em;
+$dark: #ccc;
+$light: #f5f5f5;
+
+body {
+  background: $dark;
+  color:$light;
+}
+
+form {
+
+  * {
+    margin: $spaciousness;
+  }
+
+  input {
+    width: 75%;
+  }
+
+  select {
+    width: 15%;
+  }
+
+  button {
+    width: 5%;
+  }
+
+  textarea {
+    height: 8em;
+    width: 95%;
+  }
+
+}
